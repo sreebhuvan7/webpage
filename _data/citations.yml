@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-17'
 papers:
   Diu_H_IAAAAJ:2osOgNQ5qMEC:
     citations: 0
@@ -13,6 +13,10 @@ papers:
     citations: 0
     title: Age and petrogenesis of giant mafic sills of Paleoproterozoic Bijawar Basin, Bundelkhand craton, India
     year: '2023'
+  Diu_H_IAAAAJ:LkGwnXOMwfcC:
+    citations: 0
+    title: 'Origin of the Harappan Ernestites: Fabrication and Raw Materials'
+    year: '2025'
   Diu_H_IAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: 'Isotopic Signatures of Distinct Alteration of Basalts Across Valdivia Bank Plateau, Walvis Ridge: Evidences of Tectonic Setting-Controlled Alteration'
@@ -21,13 +25,21 @@ papers:
     citations: 0
     title: 'Petrology and Geochemistry of Poikilitic Shergottite Northwest Africa (NWA) 1950: Insights into Martian Mantle Sources'
     year: '2025'
-  Diu_H_IAAAAJ:Y0pCki6q_DkC:
+  Diu_H_IAAAAJ:WF5omc3nYNoC:
     citations: 0
+    title: Geochemical Imprints of Subduction Initiation in the Andaman Ophiolite
+    year: '2025'
+  Diu_H_IAAAAJ:Y0pCki6q_DkC:
+    citations: 2
     title: 'Origin of the Harappan Ernestites: geochemical insights into provenance and fabrication'
     year: '2025'
   Diu_H_IAAAAJ:YsMSGLbcyi4C:
     citations: 4
     title: 'Petrology and Geochemistry of Poikilitic Shergottite Northwest Africa 1950: bridging the gap between depleted and intermediate sources in Martian Mantle'
+    year: '2025'
+  Diu_H_IAAAAJ:_FxGoFyzp5QC:
+    citations: 0
+    title: 'PETROLOGY AND GEOCHEMISTRY OF POIKILITIC SHERGOTTITE NWA 1950: INSIGHTS INTO MARTIAN MANTLE SOURCES'
     year: '2025'
   Diu_H_IAAAAJ:d1gkVwhDpl0C:
     citations: 0
@@ -45,6 +57,10 @@ papers:
     citations: 0
     title: 'Magmatic and post-magmatic processes in Andaman Ophiolite: Insights from Volcanics and Gabbros'
     year: '2022'
+  Diu_H_IAAAAJ:ufrVoPGSRksC:
+    citations: 0
+    title: "Reply to comment on \u201COrigin of the Harappan Ernestites: geochemical insights into provenance and fabrication\u201D"
+    year: '2026'
   Diu_H_IAAAAJ:zYLM7Y9cAGgC:
     citations: 0
     title: Did Andaman Ophiolite form during Subduction Initiation?
